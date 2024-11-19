@@ -18,7 +18,9 @@
     "crude"
   ],
   "material": {
-    "items": [ "beachparty:seashell" ]
+    "items": [ 
+      "beachparty:seashell" 
+    ]
   },
   "requiredTools": {
     "hammer_dig": "minecraft:stone"
