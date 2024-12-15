@@ -11,8 +11,8 @@
   "toolLevel": "minecraft:stone",
   "toolEfficiency": 4,
   "tints": {
-    "glyph": "stone_glyph",
-    "texture": "stone"
+    "glyph": "696969",
+    "texture": "696969"
   },
   "textures": [
     "crude",
