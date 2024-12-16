@@ -17,6 +17,9 @@
   "textures": [
     "crude"
   ],
+  "effects": {
+    "unstable": 10
+  },
   "material": {
     "items": [ 
       "beachparty:seashell" 
