@@ -1,0 +1,31 @@
+{
+  "key": "seashell",
+  "category": "gem",
+  "primary": 4,
+  "secondary": 2,
+  "tertiary": 0,
+  "durability": 500,
+  "integrityCost": 1,
+  "integrityGain": 2,
+  "magicCapacity": 72,
+  "toolLevel": "minecraft:stone",
+  "toolEfficiency": 7,
+  "tints": {
+    "glyph": "emerald_glyph",
+    "texture": "emerald"
+  },
+  "textures": [
+    "crude"
+  ],
+  "effects": {
+    "unstable": 10
+  },
+  "material": {
+    "items": [ 
+      "beachparty:seashell" 
+    ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:stone"
+  }
+}
