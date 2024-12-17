@@ -1,0 +1,31 @@
+{
+  "key": "coconut",
+  "category": "gem",
+  "primary": 2,
+  "secondary": 1,
+  "tertiary": 0,
+  "durability": 250,
+  "integrityCost": 1,
+  "integrityGain": 1,
+  "magicCapacity": 85,
+  "toolLevel": "minecraft:stone",
+  "toolEfficiency": 4,
+  "tints": {
+    "glyph": "spruce_glyph",
+    "texture": "spruce"
+  },
+  "textures": [
+    "crude"
+  ],
+  "effects": {
+    "unstable": 20
+  },
+  "material": {
+    "items": [ 
+      "beachparty:coconut"
+    ]
+  },
+  "requiredTools": {
+    "hammer_dig": "minecraft:stone"
+  }
+}

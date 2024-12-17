@@ -10,5 +10,7 @@
   "tetra.material.limestone": "Limestone",
   "tetra.material.limestone.prefix": "Limestone",
   "tetra.material.seashell": "Shell",
-  "tetra.material.seashell.prefix": "Shell"
+  "tetra.material.seashell.prefix": "Shell",
+  "tetra.material.coconut": "Coconut",
+  "tetra.material.coconut.prefix": "Coconut"
 }
