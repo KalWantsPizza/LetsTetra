@@ -19,7 +19,7 @@
     "wooden"
   ],
   "material": {
-    "items": [ "vinery:dark_cherry_planks" ]
+    "items": [ "vinery:dark_cherry_planks", "vinery:cherry_planks" ]
   },
   "requiredTools": {
     "axe_dig": "minecraft:wood"
